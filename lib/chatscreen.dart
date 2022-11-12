@@ -34,7 +34,7 @@ class Chatss extends StatelessWidget {
               trailing: Text(
                 Datass().chats[index][3],
                 style: const TextStyle(
-                  color: Colors.white70,
+                  color: Colors.black,
                   fontSize: 13,
                 ),
               ),

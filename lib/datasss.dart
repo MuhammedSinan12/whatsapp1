@@ -7,63 +7,63 @@ class Datass {
   List chats = [
     [
       "https://images.unsplash.com/photo-1630208232589-e42b29428b19?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHByb2ZpbGUlMjBwaG90b3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
-      "Chris"
-          'Hey!!'
-          '2:00'
+      "Chris",
+      'Hey!!',
+      '2:00',
     ],
     [
       "https://images.unsplash.com/photo-1630208232589-e42b29428b19?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHByb2ZpbGUlMjBwaG90b3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
-      "Chris"
-          'Hey!!'
-          '2:00'
+      "Chris",
+      'Hey!!',
+      '2:00',
     ],
     [
       "https://images.unsplash.com/photo-1630208232589-e42b29428b19?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHByb2ZpbGUlMjBwaG90b3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
-      "Chris"
-          'Hey!!'
-          '2:00'
+      "Chris",
+      'Hey!!',
+      '2:00',
     ],
     [
       "https://images.unsplash.com/photo-1630208232589-e42b29428b19?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHByb2ZpbGUlMjBwaG90b3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
-      "Chris"
-          'Hey!!'
-          '2:00'
+      "Chris",
+      'Hey!!',
+      '2:00',
     ],
     [
       "https://images.unsplash.com/photo-1630208232589-e42b29428b19?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHByb2ZpbGUlMjBwaG90b3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
-      "Chris"
-          'Hey!!'
-          '2:00'
+      "Chris",
+      'Hey!!',
+      '2:00',
     ],
     [
       "https://images.unsplash.com/photo-1630208232589-e42b29428b19?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHByb2ZpbGUlMjBwaG90b3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
-      "Chris"
-          'Hey!!'
-          '2:00'
+      "Chris",
+      'Hey!!',
+      '2:00',
     ],
     [
       "https://images.unsplash.com/photo-1630208232589-e42b29428b19?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHByb2ZpbGUlMjBwaG90b3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
-      "Chris"
-          'Hey!!'
-          '2:00'
+      "Chris",
+      'Hey!!',
+      '2:00',
     ],
     [
       "https://images.unsplash.com/photo-1630208232589-e42b29428b19?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHByb2ZpbGUlMjBwaG90b3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
-      "Chris"
-          'Hey!!'
-          '2:00'
+      "Chris",
+      'Hey!!',
+      '2:00',
     ],
     [
       "https://images.unsplash.com/photo-1630208232589-e42b29428b19?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHByb2ZpbGUlMjBwaG90b3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
-      "Chris"
-          'Hey!!'
-          '2:00'
+      "Chris",
+      'Hey!!',
+      '2:00',
     ],
     [
       "https://images.unsplash.com/photo-1630208232589-e42b29428b19?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHByb2ZpbGUlMjBwaG90b3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
-      "Chris"
-          'Hey!!'
-          '2:00'
+      "Chris",
+      'Hey!!',
+      '2:00',
     ],
   ];
   List calls = [
